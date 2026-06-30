@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Filza Rehman 👋
 
-<!--
-**filzarehman/filzarehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence Student @ Institute of Space Technology (IST)
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent applications using Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- Spotify Album Finder & Recommendation System
+- Resume Screening AI
+- AI Chat with PDFs (RAG)
+- AI Interview Assistant
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Machine Learning
+- Data Analysis
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- NumPy
+- Pandas
+- Scikit-learn
+
+---
+
+## 🎯 Goal
+
+To become an AI Engineer by building impactful, real-world AI applications.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/filzarehman/
