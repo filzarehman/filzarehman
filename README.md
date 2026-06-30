@@ -5,8 +5,14 @@
 I'm passionate about building intelligent applications using Artificial Intelligence and Machine Learning.
 
 ---
+## Currently focusing on:
 
-## 🚀 Currently Working On
+• Machine Learning
+• NLP
+• Computer Vision
+• LLM Applications
+
+## 🚀 Planned Projects
 
 - Spotify Album Finder & Recommendation System
 - Resume Screening AI
@@ -27,17 +33,19 @@ I'm passionate about building intelligent applications using Artificial Intellig
 
 ## 💻 Tech Stack
 
-- Python
-- C++
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- NumPy
-- Pandas
-- Scikit-learn
+Python
+C++
+Machine Learning
+NumPy
+Pandas
+Scikit-learn
+SQL
+Git
+GitHub
+Jupyter Notebook
+HTML
+CSS
+JavaScript
 
 ---
 
@@ -49,4 +57,4 @@ To become an AI Engineer by building impactful, real-world AI applications.
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/filzarehman/
+- LinkedIn: https://www.linkedin.com/in/filzarehman/ | Email: filzarehman8@gmail.com
